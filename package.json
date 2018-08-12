@@ -1,0 +1,19 @@
+{
+  "name": "buidl-forest",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "embark test"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "@babel/preset-stage-2": "^7.0.0-rc.1",
+    "openzeppelin-solidity": "1.11.0",
+    "register-service-worker": "^1.0.0",
+    "web3-utils": "^1.0.0-beta.35",
+    "zeppelin-solidity": "^1.10.0"
+  },
+  "devDependencies": {}
+}
